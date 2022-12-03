@@ -7,4 +7,10 @@ Enter WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with 
 
 The sole purpose of this project was to gather, explore, analyze and clean data from a real world scenario - in this case, WeRateDogs Twitter Archive. Afterwards, I stored, then drew insights plus visualizations from it all. The WeRateDogs Twitter Archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1st, 2017.
 
-Also, 3 sets of data were needed for this project: twitter-archive-enhanced.csv, image_predictions.tsv and tweet_json.txt.
+Also, 3 sets of data were needed for this project: 
+>
+> twitter-archive-enhanced.csv 
+> 
+> image_predictions.tsv 
+> 
+> tweet_json.txt.
